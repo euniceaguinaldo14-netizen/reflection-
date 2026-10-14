@@ -1,0 +1,3 @@
+console.log( "my reflection during Intrams are about cooperation and teamwork. I joined events with short and sweet dialogues. This is my second time to join, and I enjoyed it even more than before. Intrams is celebrated to showcase the hidden talents of every student. It's about sharing knowledge and expressing your skills. It's not just about winning, but also about friendship and school pride. 
+
+This celebration helps train the talents of the youth, because it gives them more opportunities to develop and show their abilities. Beyond the competitions, Intrams taught me discipline, unity, and the value of supporting one another. The memories and teamwork we built are more important than any trophy. Play hard, work together, and make memories ");
